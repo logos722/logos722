@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logos722" alt="logos722" /></a> </p>
 
-- 🌱 I’m currently learning **Hexlet Foront-end courses, React, JS**
+- 🌱 I’m currently learning **React, JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/logos722](https://github.com/logos722)
 
